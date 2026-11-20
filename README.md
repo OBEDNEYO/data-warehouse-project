@@ -1,8 +1,18 @@
 
 ## Building the Data Warehouse (Data Engineering)
+Welcome to this SQL Data Warehouse Project repository!
 ### Overview
 This project focuses on building a modern data warehouse using SQL Server to consolidate sales data from multiple source systems, enabling advanced analytical reporting and data-driven decision-making.
+### Execution Roadmap
 The project is divided into two main phases: Data Engineering (building the data warehouse) and Data Analysis (creating BI reports and SQL analytics).
+
+### Project Requirements
+*   **Platform:** SQL Server
+*   **Teams:** Data Engineering, Data Analysis
+*   **Structure:** The project has two parts: first build the data warehouse, then build analytics and reporting on top of it.
+
+
+## Phase 1: Data Engineering & Data Warehouse Setup:
 ### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
@@ -15,7 +25,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-## BI: Analytics & Reporting (Data Analysis)
+## Phase 2 BI: Analytics & Reporting (Data Analysis)
 
 ### Objective
 Develop SQL-based analytics to deliver detailed insights into:
