@@ -1,6 +1,8 @@
 
 ## Building the Data Warehouse (Data Engineering)
-
+### Overview
+This project focuses on building a modern data warehouse using SQL Server to consolidate sales data from multiple source systems, enabling advanced analytical reporting and data-driven decision-making.
+The project is divided into two main phases: Data Engineering (building the data warehouse) and Data Analysis (creating BI reports and SQL analytics).
 ### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
